@@ -1,7 +1,7 @@
 # Hardware Used
 
 * **Arduino Uno** — main microcontroller  
-  ![Arduino Uno](media/arduino_uno.png)
+  ![Arduino Uno](vacuum-cleaner/media/arduino_uno.png)
 
 * **Arduino Motor Shield** — controls all 4 motors without needing separate motor driver ICs  
   ![Motor Shield](media/motor_shield.png)
