@@ -16,8 +16,8 @@ Developed for the Summer Training 2026 program at Mansoura University, Faculty o
 
 ## Directory Overview
 
-* `CAD/` — SolidWorks source files (`.SLDPRT`, `.SLDASM`)
-* `STL/` — 3D-printable model files (`.stl`)
-* `src/` — Arduino source code (`vacuum_cleaner.ino`)
+* `CAD/` — SolidWorks source files (`.SLDPRT`)
+* `STEP/` — 3D-printable model files (`.STEP`)
+* `code/` — Arduino source code (`vacuum_cleaner.ino`)
 * `media/` — Photos, diagrams, and renders
 * `HARDWARE.md` — List of hardware components and images
