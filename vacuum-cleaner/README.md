@@ -20,4 +20,4 @@ Developed for the Summer Training 2026 program at Mansoura University, Faculty o
 * `STEP/` — 3D-printable model files (`.STEP`)
 * `code/` — Arduino source code (`vacuum_cleaner.ino`)
 * `media/` — Photos, diagrams, and renders
-* `HARDWARE.md` — List of hardware components and images
+* `HARDWARE.md` — List of hardware components 
